@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "How Long",
+  "base_artist": "Charlie Puth",
+  "createdAt": "2026-01-13T18:16:12.601688Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How Long Gone",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/01_How_Long_Gone_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How Long Gone",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/02_How_Long_Gone_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "How Long Will My Baby Be Gone (Alternate Version)",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/03_How_Long_Will_My_Baby_Be_Gone_(Alternate_Version)_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "For How Long",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/04_For_How_Long_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "How Long Will They Mourn Me?",
+      "artist": "2Pac & Nate Dogg",
+      "has_synced": false,
+      "path": "select/05_How_Long_Will_They_Mourn_Me_2Pac_&_Nate_Dogg.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "How Long",
+      "artist": "Lead Belly",
+      "has_synced": false,
+      "path": "select/06_How_Long_Lead_Belly.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "How Long",
+      "artist": "Leadbelly",
+      "has_synced": false,
+      "path": "select/07_How_Long_Leadbelly.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "For How Long",
+      "artist": "Tycho feat. Saint Sinner",
+      "has_synced": true,
+      "path": "select/08_For_How_Long_Tycho_feat._Saint_Sinner.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "For How Long",
+      "artist": "Tycho",
+      "has_synced": false,
+      "path": "select/09_For_How_Long_Tycho.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How Long, How Long Blues",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/10_How_Long,_How_Long_Blues_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "How Long, How Long Blues",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/11_How_Long,_How_Long_Blues_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How Long Can A Bad Thing Last",
+      "artist": "The Blow Monkeys",
+      "has_synced": false,
+      "path": "select/12_How_Long_Can_A_Bad_Thing_Last_The_Blow_Monkeys.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "How Long",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/13_How_Long_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "How Long (Betcha Got a Chick On the Side)",
+      "artist": "The Pointer Sisters",
+      "has_synced": false,
+      "path": "select/14_How_Long_(Betcha_Got_a_Chick_On_the_Side)_The_Pointer_Sisters.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "How Long",
+      "artist": "Yazz",
+      "has_synced": false,
+      "path": "select/15_How_Long_Yazz.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "How Long",
+      "artist": "Olivia Broadfield",
+      "has_synced": true,
+      "path": "select/16_How_Long_Olivia_Broadfield.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "How Long",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/17_How_Long_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "How Long",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/18_How_Long_Information_Society.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "How Long",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_01_How_Long_Charlie_Puth.txt"
+    }
+  ]
+}
